@@ -41,6 +41,6 @@
 <h2>Acknowledgments</h2>
 
 <ul>
-  <li>CS50 AI </li>
+  <li>This project is part of Harvard University's CS50 Introduction to Artificial Intelligence with Python, ©2024 Harvard University. </li>
   <li>Raymond Smullyan for the original Knights and Knaves concept</li>
 </ul>
