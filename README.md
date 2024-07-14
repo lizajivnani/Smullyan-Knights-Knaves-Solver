@@ -41,5 +41,6 @@
 <h2>Acknowledgments</h2>
 
 <ul>
-  <li>This project is part of Harvard University's CS50 Introduction to Artificial Intelligence with Python. </li>
+  <li>This project was implemented as part of the coursework for Harvard University's CS50 Introduction to Artificial Intelligence with Python.
+ </li>
 </ul>
